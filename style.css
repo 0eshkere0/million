@@ -35,7 +35,7 @@ section {
   margin-right: 5px;
 }
 .c1 {
-  margin-right: 10px;
+  margin-right: 30px;
 }
 .up {
   text-transform: uppercase;
@@ -135,6 +135,11 @@ button {
   background-color: #121212;
   height: 2px;
 }
+
+.c1 p {
+  max-width: 30px;
+}
+
 .dropdown-menu {
   display: none;
   position: fixed;
